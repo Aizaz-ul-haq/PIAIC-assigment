@@ -1,2 +1,2 @@
 const myName:string = "Aizaz";
-console.log(`Hello ${myName}. Do you want to learn some python today?`)
+console.log(`Hello ${myName}. Would you like to learn some python today?`)
